@@ -1,0 +1,57 @@
+#photo{
+margin-left: 46%;
+border: 2px solid black;
+    }
+#Me{
+    display:flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    }
+.contactdetails{
+    width: 40%;
+    height: 60%;
+    padding: 15px;
+    margin-left: 30%;
+    border:2px solid blue;
+    background-color: lightyellow;
+    text-align: center;
+    }
+#aboutMe{
+    text-align:end;
+    margin-right: 10%;
+    }
+h2  {
+    color: darkred;
+    text-align: center;
+    }
+h3 {
+        text-align: center;
+    }
+.allskills{
+    border: 2px solid blue;
+    }
+.about{
+    height: 65%;
+    width: 45%;
+    padding: 20px;
+    background-color:lightyellow;
+    border: 2px solid blue;
+    margin-top: 20px;
+    margin-left: 27%;
+    text-align:justify;
+    }
+#profileEdu{
+    height: 70%;
+    width: 62%;
+    padding: 1%;
+    background-color:lightyellow;
+    border: 2px dashed darkorange;
+    margin-left: 19%;   
+    text-align: center;
+    }
+#SkillCertiExp{
+    display: flex;
+    justify-content: space-between;  
+    margin-left: 2%;
+    margin-right: 2%; 
+    }
